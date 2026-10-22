@@ -1,2 +1,2 @@
 #Úvod
-![RPI](git/rpi.jpeg)
+![RPI](git/k/rpi.jpeg)
