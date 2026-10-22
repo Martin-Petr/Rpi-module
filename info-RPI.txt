@@ -1,1 +1,3 @@
-reezqeu
+Raspberry Pi je kompaktní jednodeskový počítač, který nabízí překvapivý výkon, nízkou spotřebu a široké možnosti využití.
+Díky otevřenému ekosystému, dostupné ceně a podpoře komunity je ideální pro programování, elektroniku, automatizaci i výuku. 
+Od jednoduchých skriptů až po komplexní IoT projekty – Raspberry Pi umožňuje rychle experimentovat a tvořit.
